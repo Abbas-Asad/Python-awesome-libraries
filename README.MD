@@ -19,6 +19,7 @@ Here is a list of **powerful, time-saving, and developer-friendly Python tools a
 | 📊 [**TQDM**](https://github.com/tqdm/tqdm) | Add sleek progress bars to your loops and scripts — one line, zero config |
 | ⏳ [**Pendulum**](https://pendulum.eustace.io/) | Handle datetime and timezones with ease — human-readable and intuitive |
 | 🧪 [**DeepEval**](https://github.com/confident-ai/deepeval) | Evaluate LLM outputs — detect hallucinations, check grammar, and score relevance |
+| 🧠 [**Wikipedia**](https://github.com/goldsmith/Wikipedia) | A library that makes it easy to access and parse data from Wikipedia |
 
 ---
 
