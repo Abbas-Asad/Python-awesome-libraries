@@ -1,4 +1,4 @@
-# Awesome Python Libraries 🚀  
+# Python Awesome Libraries 🚀  
 
 Powerful, time-saving, and developer-friendly tools that make Python development faster, cleaner, and more fun.  
 
